@@ -5,6 +5,14 @@ My name is Trev, and I am beginning my journey into the world of software engine
 - 🌱 I’m currently gaining deeper knowledge on the language python
 - ⚡ Fun fact: ...
 
+## Code example
+```
+import sys
+
+for path in sys.path:
+    print(path)
+```
+
 ## Some languages I enjoy developing with
 - C++
 - Python
