@@ -4,7 +4,7 @@ My name is Trev, and I am beginning my journey into the world of software engine
 ## A little About Me
 - 🔭 I’m currently working on a small project call MyPortfolio that is being developed in python
 - 🌱 I’m currently gaining deeper knowledge on the language python
-- 
+
 ## Some languages I enjoy developing with
 - C++
 - Python
