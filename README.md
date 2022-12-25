@@ -13,5 +13,6 @@ My name is Trev, and I am beginning my journey into the world of software engine
 ## Goals for 2023
 - [ ] Get a junior dev position
 - [ ] Finish MyPortolio project
+- [ ] Shift useful code from university projects into library
 - [ ] Polish up a library in python that I have been working on for awhile
 - [ ] Get involed in somekind of open sourc e project.
