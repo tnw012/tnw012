@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Some languages that I enjoy developing with.
+### Some languages that I enjoy developing with
 - C++
 - Python
 - C#
