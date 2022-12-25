@@ -11,7 +11,7 @@ My name is Trev, and I am beginning my journey into the world of software engine
 - C#
 
 ## Goals for 2023
-- [x] Get a junior dev position
-- [] Finish MyPortolio project
-- [] Polish up a library in python that I have been working on for awhile
-- [] Get involed in somekind of open sourc e project.
+- [ ] Get a junior dev position
+- [ ] Finish MyPortolio project
+- [ ] Polish up a library in python that I have been working on for awhile
+- [ ] Get involed in somekind of open sourc e project.
