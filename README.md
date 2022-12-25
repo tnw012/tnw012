@@ -9,7 +9,7 @@ My name is Trev, and I am beginning my journey into the world of software engine
 ```
 import sys
 
-for path in sys.path:
+for <font color="red"></font>path in sys.path:
     print(path)
 ```
 
