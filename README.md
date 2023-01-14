@@ -7,12 +7,12 @@ My name is Trev, and I am beginning my journey into the world of software design
 
 ## Goals for 2023
 - [ ] Get a dev position
-- [ ] Finish MyPortolio project
-- [ ] Shift useful code from university projects into library
+- [ ] Have a working version of epOrganizer 
+- [ ] Improve discord bot functionality
 - [ ] Polish up a library in python that I have been working on for awhile
-- [ ] Get involed in somekind of open sourc e project.
+- [ ] Get involed in somekind of open source project.
+- [ ] become more efficient with python
 
 ## Languages I enjoy developing with
 - C++
 - Python
-- C#
