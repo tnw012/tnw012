@@ -1,9 +1,11 @@
 # Hi There Everyone 👋
-My name is Trev, and I am beginning my journey into the world of software design. This Spring I will gradute from university with a degree in Computer Science with an emphasis in software engineering.
+My name is Trevin, and I am beginning my journey into the world of software design. This Spring I will gradute from university with a degree in Computer Science with an emphasis in software engineering.
 
 ## A little About Me
-- 🔭 I’m currently working on a small project call MyPortfolio that is being developed in python
-- 🌱 I’m currently gaining deeper knowledge on the language python
+- I have been designing software for about 5 years 
+- I’m currently working on two small projects called epOrganizer and ButlerBot. Both are being developed in python.
+- My first language was C++
+- I enjoy building desktop applications
 
 ## Goals for 2023
 - [ ] Get a dev position
