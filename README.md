@@ -3,7 +3,7 @@ My name is Trevin, and I am beginning my journey into the world of software desi
 
 ## A little About Me
 - I have been designing software for about 5 years 
-- I’m currently working on two small projects called epOrganizer and ButlerBot. Both are being developed in python.
+- I’m currently working on two small projects called MyPortfolio and ButlerBot. MyPortfolio is being developed in C# and ButlerBot is being developed in python for discord.
 - My first language was C++
 - I enjoy building desktop applications
 
