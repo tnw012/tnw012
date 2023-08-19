@@ -1,5 +1,5 @@
 # Hi There Everyone 👋
-My name is Trevin, and I am beginning my journey into the world of software design. This Spring 2023 I graduated from university with a degree in Computer Science with an emphasis in software engineering.
+My name is Trevin, and I am beginning my journey into the world of software design. This Spring 2023 I graduated from university with B.S in Computer Science with an emphasis in software engineering.
 
 ## A little About Me
 - I have been designing software for about 5 years 
