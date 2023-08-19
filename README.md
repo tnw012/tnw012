@@ -8,7 +8,7 @@ My name is Trevin, and I am beginning my journey into the world of software desi
 - I enjoy building desktop applications
 
 ## Goals for 2023
-- [ X ] Get a dev position
+- [ ] Get a dev position
 - [ ] Have a working version of MyPortfolio 
 - [ ] Improve discord bot functionality
 - [ ] Polish up a library in python that I have been working on for awhile
