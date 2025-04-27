@@ -1,7 +1,7 @@
 # Hi There Everyone 👋
 My name is Trevin, and I am beginning my journey into the world of software design. This Spring 2023 I graduated from university with a B.S in Computer Science with an emphasis in software engineering.
 
-## A little About Me
+## A Little About Me
 - I have been designing software for about 5 years 
 - I’m currently working on two small projects called MyPortfolio and ButlerBot. MyPortfolio is being developed in C# and ButlerBot is being developed in python for discord.
 - My first language was C++
